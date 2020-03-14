@@ -1,2 +1,2 @@
 # Have you met TypeScript
-Code samples used in the talk
+Presentation and code samples used in the talk at Dev Nexus 2020
